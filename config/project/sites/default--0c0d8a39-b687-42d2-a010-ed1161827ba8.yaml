@@ -1,0 +1,8 @@
+baseUrl: $PRIMARY_SITE_URL
+handle: default
+hasUrls: true
+language: en-US
+name: 'Craft Coffee'
+primary: true
+siteGroup: 27af1bc0-76f0-4881-9e4b-c5e58ea9d248 # Craft Coffee
+sortOrder: 1

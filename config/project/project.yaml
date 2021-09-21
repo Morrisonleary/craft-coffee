@@ -1,0 +1,51 @@
+dateModified: 1632251923
+email:
+  fromEmail: sharris@southleft.com
+  fromName: 'Craft Coffee'
+  transportType: craft\mail\transportadapters\Sendmail
+meta:
+  __names__:
+    0c0d8a39-b687-42d2-a010-ed1161827ba8: 'Craft Coffee' # Craft Coffee
+    6a1549b3-0b1f-4234-ac13-a5604279b0d3: excerpt # excerpt
+    6bb1b4cb-4e01-4a4e-ab84-d083f05c2880: Drinks # Drinks
+    7f803caf-9fc3-46d4-bbdf-34715cd5e538: 'Page Intro' # Page Intro
+    8a8d6f74-446c-4f3d-92b5-38e89e6e2d6e: Homepage # Homepage
+    19c6f8c0-3d94-440e-b0f4-3a0d0cf501ea: About # About
+    27a739f7-7f68-4833-b428-fc8cb83d3472: News # News
+    27af1bc0-76f0-4881-9e4b-c5e58ea9d248: 'Craft Coffee' # Craft Coffee
+    62c5e4db-33f5-4f5e-b11c-9c87c1d6394a: Common # Common
+    85d5324d-dfee-44b0-842d-e085f52c8b49: 'Page Copy' # Page Copy
+    214ba1d3-89ce-4421-a55b-1f74ef9fe449: 'News Body' # News Body
+    521c665d-2828-4225-815b-57faf7d69897: News # News
+    4243babf-1449-4414-89e5-f3db56f4dfaf: '840x200 thumb' # 840x200 thumb
+    8959d0fa-e78a-4440-8c4f-27e6dfebe549: Drinks # Drinks
+    96314b00-23e0-48c1-95b6-3457da6f2254: 'Drink Image' # Drink Image
+    57626898-144d-4538-adf5-bfb73b7b5c0c: News # News
+    71016250-9381-424b-bd0a-27d57c4184ef: Subtitle # Subtitle
+    c6947922-a691-4901-9acd-4f97af19ba5b: Homepage # Homepage
+    cecb01e4-8304-4f0a-9c33-0236e8487731: 'About Crafty Coffee' # About Crafty Coffee
+    e3421b66-51ae-4ddd-9f38-8136c062465e: Introduction # Introduction
+    e8409ecf-0e2a-4845-b6ad-1b2f31d3cf21: Drinks # Drinks
+    f2ab2404-e753-4da8-a630-4bf7eca83a36: Drinks # Drinks
+    febf0d7b-a60b-40d8-ba8b-b61002ae9f77: 'About Crafty Coffee' # About Crafty Coffee
+plugins:
+  feed-me:
+    edition: standard
+    enabled: true
+    schemaVersion: 4.4.0
+  redactor:
+    edition: standard
+    enabled: true
+    schemaVersion: 2.3.0
+system:
+  edition: solo
+  live: true
+  name: 'Craft Coffee'
+  schemaVersion: 3.7.8
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  requireEmailVerification: true

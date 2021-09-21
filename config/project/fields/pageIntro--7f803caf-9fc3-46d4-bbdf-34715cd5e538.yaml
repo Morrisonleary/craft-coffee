@@ -1,0 +1,19 @@
+columnSuffix: wkowjmun
+contentColumnType: text
+fieldGroup: 19c6f8c0-3d94-440e-b0f4-3a0d0cf501ea # About
+handle: pageIntro
+instructions: ''
+name: 'Page Intro'
+searchable: false
+settings:
+  byteLimit: null
+  charLimit: null
+  code: ''
+  columnType: null
+  initialRows: '4'
+  multiline: ''
+  placeholder: null
+  uiMode: normal
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\PlainText

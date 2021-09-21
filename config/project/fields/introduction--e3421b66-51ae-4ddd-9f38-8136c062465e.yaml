@@ -1,0 +1,19 @@
+columnSuffix: tlrwtdut
+contentColumnType: text
+fieldGroup: e8409ecf-0e2a-4845-b6ad-1b2f31d3cf21 # Drinks
+handle: introduction
+instructions: 'Short sentence at top of drink page.'
+name: Introduction
+searchable: false
+settings:
+  byteLimit: null
+  charLimit: null
+  code: ''
+  columnType: null
+  initialRows: '4'
+  multiline: ''
+  placeholder: null
+  uiMode: normal
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\PlainText

@@ -1,0 +1,65 @@
+fieldLayouts:
+  b20ed166-a5e2-4660-8987-4414f9de88e8:
+    tabs:
+      -
+        elements:
+          -
+            autocapitalize: true
+            autocomplete: false
+            autocorrect: true
+            class: null
+            disabled: false
+            id: null
+            instructions: ''
+            label: 'Drink Name'
+            max: null
+            min: null
+            name: null
+            orientation: null
+            placeholder: null
+            readonly: false
+            requirable: false
+            size: null
+            step: null
+            tip: null
+            title: null
+            type: craft\fieldlayoutelements\EntryTitleField
+            warning: null
+            width: 100
+          -
+            fieldUid: e3421b66-51ae-4ddd-9f38-8136c062465e # Introduction
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            warning: null
+            width: 100
+          -
+            fieldUid: 85d5324d-dfee-44b0-842d-e085f52c8b49 # Page Copy
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            warning: null
+            width: 100
+          -
+            fieldUid: 96314b00-23e0-48c1-95b6-3457da6f2254 # Drink Image
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            warning: null
+            width: 100
+        name: 'Drink Details'
+        sortOrder: 1
+handle: drinks
+hasTitleField: true
+name: Drinks
+section: 6bb1b4cb-4e01-4a4e-ab84-d083f05c2880 # Drinks
+sortOrder: 1
+titleFormat: null
+titleTranslationKeyFormat: null
+titleTranslationMethod: site

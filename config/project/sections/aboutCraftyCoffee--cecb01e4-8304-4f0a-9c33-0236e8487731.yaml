@@ -1,0 +1,15 @@
+defaultPlacement: end
+enableVersioning: true
+handle: aboutCraftyCoffee
+name: 'About Crafty Coffee'
+propagationMethod: all
+siteSettings:
+  0c0d8a39-b687-42d2-a010-ed1161827ba8: # Craft Coffee
+    enabledByDefault: true
+    hasUrls: true
+    template: about/_entry
+    uriFormat: '{parent.uri}/{slug}'
+structure:
+  maxLevels: null
+  uid: be2e22d4-037f-4d69-8e8c-3dc98fef5f36
+type: structure

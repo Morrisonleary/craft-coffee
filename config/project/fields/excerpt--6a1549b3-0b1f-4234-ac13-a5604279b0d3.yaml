@@ -1,0 +1,19 @@
+columnSuffix: kgjwtnak
+contentColumnType: text
+fieldGroup: 62c5e4db-33f5-4f5e-b11c-9c87c1d6394a # Common
+handle: excerpt
+instructions: ''
+name: excerpt
+searchable: false
+settings:
+  byteLimit: null
+  charLimit: null
+  code: ''
+  columnType: null
+  initialRows: '4'
+  multiline: ''
+  placeholder: null
+  uiMode: normal
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\PlainText

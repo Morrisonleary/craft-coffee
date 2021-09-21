@@ -1,0 +1,12 @@
+defaultPlacement: end
+enableVersioning: true
+handle: drinks
+name: Drinks
+propagationMethod: all
+siteSettings:
+  0c0d8a39-b687-42d2-a010-ed1161827ba8: # Craft Coffee
+    enabledByDefault: true
+    hasUrls: true
+    template: drinks/_entry
+    uriFormat: 'drinks/{slug}'
+type: channel
